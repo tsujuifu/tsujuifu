@@ -1,7 +1,7 @@
 
 ### Tsu-Jui (Ray) Fu
 
-I am a senior research scientist at Meta GenAI. My research lies in vision+language and text-guided visual editing. I completed my Ph.D. in computer science from UC Santa Barbara, advised by William Yang Wang. My goal is to bridge the gap between multiple modalities via the AI system.
+I am a senior research scientist at Apple AI/ML. My research lies in vision+language and unified visual generation. I completed my Ph.D. in computer science from UC Santa Barbara, advised by William Yang Wang. My goal is to bridge the gap between multiple modalities via the AI system.
 
 <p float="left">
     <a href="mailto:tsujuifu@gmail.com" target="_blank"><img src="_icon/mail.png" width="36px" /></a>
